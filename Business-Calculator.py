@@ -1,6 +1,8 @@
 print("BUSINESS CALCULATOR")
 print()
 
+# It is not done yet. I didn't check all my calculations yet so be careful. 
+
 print("""Welcome to business calculator here you can easliy calculate your
 problems related to business mathematic and finance.""")
 print()
