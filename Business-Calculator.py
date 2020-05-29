@@ -748,7 +748,7 @@ Enter your periodic rate of interest here:
     
     # This is the part that calculates number of periods given for present value.
     elif topic == "NPGPV":
-        print("Can't calculate this one. I'm sory python is just unable to calculate negative ln.")
+        print("Can't calculate this one. I'm sory python is just unable to calculate negative ln.(ex: math.log(-5)")
 #         pv = float(input("Enter your given present value here: "))
 #         pmt = float(input("Enter your Amount of periodic payment in an annuity(PMT) here: "))
 #         i = float(input("""Enter your periodic rate of interest i as decimal number.
