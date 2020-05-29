@@ -2,6 +2,7 @@ print("BUSINESS CALCULATOR")
 print()
 
 print("Please read the comment lines!!!.")
+print("Its not fully complete yet please check twice. I will let you know when is done.")
 print()
 
 print("""Welcome to business calculator here you can easliy calculate your
