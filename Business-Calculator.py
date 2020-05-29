@@ -778,7 +778,7 @@ Enter your periodic rate of interest here:
 
     # This is the part that calculates Number of Payments, Given ‘PV­Due '
     elif topic == 'NPGPVD':
-        print("I'm couldn't calculate this one I'm sory python can't calculate negative ln. But I can always provide the formula for the people ask for.")
+        print("I'm couldn't calculate this one I'm sory python can't calculate negative ln(ex: math.log(-5)). But I can always provide the formula for the people ask for.")
 
 # This is the part for feature 3.
 elif feature == 3:
