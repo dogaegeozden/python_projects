@@ -13,7 +13,7 @@ print("""FEATURES""")
 print("""
 Simple Calculator: 1
 Mathematics of Business & Finance Calculator: 2
-Business Statistics Calculator: 3
+Business Statistics Calculator: 3 Note: I didn't start yet. But I will do it. 
 """)
 print()
 
