@@ -101,7 +101,7 @@ print()
 # formulas for the TOPICS that I couldn't calcuate. And Also I couldn't be
 # able to check all of my calculations. Please don't blame me.
 
-# PLEASE CORRECT THE CALCULATIONS MY WEBPAGE IS
+# PLEASE CORRECT THE CALCULATIONS my webpage IS
 # dogaegeozden.com
 # For the people who looking for formulas I can always provide.
 # As soon as correct my answers I will change these comments.
