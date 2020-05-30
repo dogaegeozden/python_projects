@@ -1,5 +1,3 @@
-# Not complete yet.
-
 # Hello My name is Doga Ege Ozden.
 # Sorry I couldn't calculate some of the topics.
 # The reason why ptyhon cannot calculate negative ln(ex: math.log(-5))
@@ -302,8 +300,6 @@ Enter your discounts here: """)
         discsl1 = [ float(n) for n in discsl ]
 
         print(discsl1)
-
-        # THIS CODE ISN'T GIVING RIGHT ASWER DON'T FORGET.
 
         for c in range(len(discsl1)):
             discsl1[c] = ( 1 - discsl1[c] )
