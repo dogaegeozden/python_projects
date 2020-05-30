@@ -1,3 +1,5 @@
+# Not complete yet.
+
 # Hello My name is Doga Ege Ozden.
 # Sorry I couldn't calculate some of the topics.
 # The reason why ptyhon cannot calculate negative ln(ex: math.log(-5))
