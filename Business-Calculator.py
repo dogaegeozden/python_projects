@@ -12,6 +12,8 @@
 # because of this calculator. So PLEASE CHECK MY CALCULATIONS TWICE!!!
 # And you use it and develop it however you like
 # I hope you like my application.
+# I'm still working on my business statistic part so it's not completely finish.
+# But I have the all topic and formulas.
 
 print("BUSINESS CALCULATOR")
 print()
@@ -28,7 +30,7 @@ print("""FEATURES""")
 print("""
 Simple Calculator: 1
 Mathematics of Business & Finance Calculator: 2
-Business Statistics Calculator: 3
+Business Statistics Calculator: 3 
 """)
 print()
 
