@@ -785,4 +785,4 @@ Enter your periodic rate of interest here:
 
 # This is the part for feature 3.
 elif feature == 3:
-    print("This part is only avaliable for the company that I work for I'm solving their questions.")
+    print("I'm using this part to solve the companies questions.")
