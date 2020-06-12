@@ -132,10 +132,10 @@ elif feature == 2:
     Future Value of a Simple Annuity Due: FVSAD
     Present Value of a Simple Annuity Due: PVSAD
     Number of Payments, Given 'FV': NPGFV
-    Number of Payments, Given 'PV': NPGPV ** I couldn't calculate this one I'm sorry
+    Number of Payments, Given 'PV': NPGPV 
     Time Period (in years): TPY2
     Number of Payments, Given 'FV­Due': NPGFVD
-    Number of Payments, Given ‘PV­Due': NPGPVD ** I couldn't calcuate this one I'm sorry
+    Number of Payments, Given ‘PV­Due': NPGPVD 
     """)
     print()
 
