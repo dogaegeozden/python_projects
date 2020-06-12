@@ -663,7 +663,8 @@ Enter your periodic rate of interest here:
         m = float(input("Enter your Number of compounding periods per year (compounding frequency) m here: "))
         tpy = n / m
         print("Result: ",tpy)
-
+        
+    # This app is created by Doga Ege Ozden
     # This is the part that calculates Effective Interest Rate
     elif topic == "EIR":
         i = float(input("""Enter your periodic rate of interest i as decimal number.
