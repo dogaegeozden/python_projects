@@ -1,7 +1,6 @@
 # Hello My name is Doga Ege Ozden.
-# Sorry I couldn't calculate some of the topics.
 # The reason why ptyhon cannot calculate negative ln(ex: math.log(-5))
-# But I can always provide formula sheets for calculating all of these topics.
+# But I can always provide formula sheets for calculating all of the business and finance topics.
 # My webpage is dogaegeozden.com
 # My gmail is dogaegeozden@gmail.com
 # PLEASE CHECK MY CALCULATIONS TWICE BEFORE STARTING USING THIS APP.
