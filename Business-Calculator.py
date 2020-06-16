@@ -1,5 +1,5 @@
 # Hello My name is Doga Ege Ozden.
-# But I can always provide formula sheets for calculating all of the business and finance topics.
+# For the people who ask. I can always provide formula sheets for calculating all of the business and finance topics.
 # I know all the business statistics topics but I can't provide formula sheet for that I can only solve your questions.
 # My webpage is dogaegeozden.com
 # My gmail is dogaegeozden@gmail.com
