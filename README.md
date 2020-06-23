@@ -6,3 +6,5 @@
 
 # If you are having issues running these apps on your text editor try to add the following to the begginng of your the .py files:
 #!/usr/bin/pyhon3
+
+# Note: You can't run the apps that collects input on atom text editor you should run them from your cmd or terminal.
