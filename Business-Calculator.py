@@ -789,6 +789,6 @@ Enter your periodic rate of interest here:
 
 # This is the part for feature 3.
 elif feature == 3:
-    print("I'm solving calculating Statistics using this app. This part is not for share.")
+    print("I'm solving calculating Statistics using this app. Maybe I can give one or two people.")
     
 # This app is created by Doga Ege Ozden
