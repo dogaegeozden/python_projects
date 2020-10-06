@@ -48,4 +48,4 @@ try:
 except:
     print()
 
-print("Encryption is done!")
+print("Encryption is done!, You can find your encrypted folder on your desktop.")
