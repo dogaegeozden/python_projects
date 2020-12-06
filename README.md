@@ -2,7 +2,7 @@
 
 # These are my python projects. You can open these projects in atom text editor to see how they are written and edit them.
 # To use them you should have been installed python3 and install the required packages with fallowing syntax:
-# pip install <packageName>
+# pip install packageName
 # You can install script and minimap packages to improve your text editor.
   
 Note: Most of these applications are designed for windows operating system.
