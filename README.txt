@@ -1,0 +1,1 @@
+In order to use calypso you must install espeak to it's location.
