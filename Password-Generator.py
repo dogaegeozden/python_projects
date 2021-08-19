@@ -9,14 +9,14 @@ ucletters = ["A", "B", "C", "D", "E", "F", "G", "H", "I", "J", "K", "L", "M", "N
 numbers = ["1", "2", "3", "4", "5", "6", "7", "8", "9", "0"]
 symbols = ["!", "@", "#", "$", "%", "^", "&", "*", "(", ")", "-", "_", "=", "+", ",", ".", "<", ">", "/", "?", ";", ":"]
 
-rndmlclttrs = random.choices(lcletters, k=3)
-rndmuclttrs = random.choices(ucletters, k=3)
-rndmnmbrs = random.choices(numbers, k=3)
-rndmsymbls = random.choices(symbols, k=3)
+rndmlclttrs = random.choices(lcletters, k=5)
+rndmuclttrs = random.choices(ucletters, k=5)
+rndmnmbrs = random.choices(numbers, k=5)
+rndmsymbls = random.choices(symbols, k=5)
 
 newlist = rndmlclttrs + rndmuclttrs + rndmnmbrs + rndmsymbls
 
-password = random.choices(newlist, k=12)
+password = random.choices(newlist, k=20)
 print(password)
 
 def convert(password):
