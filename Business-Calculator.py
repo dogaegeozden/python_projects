@@ -962,29 +962,29 @@ Enter your simple interest here: """))
                 try:
                     print("Formula: Maturity Value = Principal + Amount of Interest")
                     answr = str(input("Do you know your Amount of Interest? (y/n) "))
-                        if answr == 'y':
-                            try:
-                                p = Decimal(input("Enter your principal here: "))
-                                i = Decimal(input("Enter your amount of interest here: "))
-                                mv = p + i
-                                print("Result = ",mv)
-                            except:
-                                print(f'You didn\'t entered valid value. Ex(Principal) = 500, Ex1(Amount of Interest) = 300')
+                    if answr == 'y':
+                        try:
+                            p = Decimal(input("Enter your principal here: "))
+                            i = Decimal(input("Enter your amount of interest here: "))
+                            mv = p + i
+                            print("Result = ",mv)
+                        except:
+                            print(f'You didn\'t entered valid value. Ex(Principal) = 500, Ex1(Amount of Interest) = 300')
 
-                        elif answr == 'n':
-                            try:
-                                p = Decimal(input("Enter your principal here: "))
-                                r = Decimal(input("""Enter your simple interest rate as decimal number.
+                    elif answr == 'n':
+                        try:
+                            p = Decimal(input("Enter your principal here: "))
+                            r = Decimal(input("""Enter your simple interest rate as decimal number.
 ex: 70% = 0.7
 Enter your simple interest rate here: """))
-                                t = Decimal(input("""Enter your time period.
+                            t = Decimal(input("""Enter your time period.
 Hint: If it's 4 months then enter 4
 Ex: 4
 here: """))
-                                mv2 = p * ( 1 + r * t )
-                                print("Result = ",mv2)
-                            except:
-                                print(f'You didn\'t entered valid value. Ex(Principal) = 500, Ex1(Simple Interest Rate as Decimal Number) = 0.02, Ex2(Time Period) 4')
+                            mv2 = p * ( 1 + r * t )
+                            print("Result = ",mv2)
+                        except:
+                            print(f'You didn\'t entered valid value. Ex(Principal) = 500, Ex1(Simple Interest Rate as Decimal Number) = 0.02, Ex2(Time Period) 4')
 
                 except:
                     print(f'Enter y or n')
