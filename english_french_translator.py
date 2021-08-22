@@ -1,3 +1,4 @@
+# Copyright © 2021 All rights reserved. Doga Ege Ozden
 import os
 
 os.system(f'cls')
