@@ -13,7 +13,7 @@ with open(f'requirements_check.txt', "r") as b:
 
 for i in range(len(requiredPacs)):
     if b_contents.find(requiredPacs[i]) != -1: # This means if it contains
-
+        print("Required package is installed.")
     elif b_contents.find(requiredPacs[i]) == -1:
         os.system(f'python -m pip install {requiredPacs[i]}')
 
