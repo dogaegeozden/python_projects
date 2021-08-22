@@ -3,6 +3,7 @@
 # My gmail is dogaegeozden@gmail.com
 # PLEASE CHECK MY CALCULATIONS TWICE BEFORE STARTING USING THIS APP.
 # I tried to do my best but I'm a human being.
+# Copyright © 2021 All rights reserved. Doga Ege Ozden
 
 # IMPORTANT
 # I can't accept any responsibility for any wrong calculation happen
