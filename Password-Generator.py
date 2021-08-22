@@ -1,3 +1,4 @@
+# Copyright © 2021 All rights reserved. Doga Ege Ozden
 # This is a password generator that creates random passwords
 # don't forget to install required packages you can install
 # python packages using 'pip install <package>' command.
