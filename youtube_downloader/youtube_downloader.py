@@ -1,6 +1,5 @@
 # Copyright © 2021 All rights reserved. Doga Ege Ozden
 import os
-from pytube import YouTube
 
 os.system("pip freeze > requirements_check.txt")
 
@@ -15,9 +14,12 @@ with open(f'requirements_check.txt', "r") as b:
 for i in range(len(requiredPacs)):
     if b_contents.find(requiredPacs[i]) != -1: # This means if it contains
         print("Required package is installed.")
+
     elif b_contents.find(requiredPacs[i]) == -1:
+        print("Required package is not installed. Installing...")
         os.system(f'python -m pip install {requiredPacs[i]}')
 
+from pytube import YouTube
 
 while True:
     try:
