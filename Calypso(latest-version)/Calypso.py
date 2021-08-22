@@ -1,3 +1,5 @@
+# Copyright © 2021 All rights reserved. Doga Ege Ozden
+
 # PyAudio v0.2.11: Python Bindings for PortAudio.
 # Copyright (c) 2006 Hubert Pham
 
