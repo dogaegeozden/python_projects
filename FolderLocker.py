@@ -1,3 +1,4 @@
+# Copyright © 2021 All rights reserved. Doga Ege Ozden
 import os
 import shutil
 import tkinter as tk
