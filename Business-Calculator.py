@@ -1,5 +1,5 @@
 # Hello My name is Doga Ege Ozden.
-# My webpage is dogaege.pythonanywhere.com
+# My webpage is dogaegeozden.com
 # My gmail is dogaegeozden@gmail.com
 # PLEASE CHECK MY CALCULATIONS TWICE BEFORE STARTING USING THIS APP.
 # I tried to do my best but I'm a human being.
@@ -388,6 +388,7 @@ Enter your mill rate here: """))
             # This is the part that calculates index number on a selected date
             elif topic == topics["Index Number on Selected Date"] or topic == topics["Index Number on Selected Date"].lower():
                 try:
+                    print("Formula: Index Number on Selected Date = (Value of item on selected date / Value of item on base date) x 100")
                     visd = Decimal(input("""Ex: 350
 Enter the value of item on selected date here: """))
                     vibd = Decimal(input("""Ex: 500
@@ -400,8 +401,9 @@ Enter the value of item on base date here: """))
                     print("You didn't entered valid value. Ex(Value of item on seleted date) = 150, Ex1(Value of item on base date) = 130.5")
 
             # This is the part that calculates Inflation Rate
-            elif topic == topics["Index Number on Selected Date"] or topic == topics["Index Number on Selected Date"].lower():
+            elif topic == topics["Inflation Rate"] or topic == topics["Inflation Rate"].lower():
                 try:
+                    print("Formula: Inflation Rate(From Year A to Year B) = ((CPI(YearB) - CPI(YearA)) / CPI(YearA)) x 100")
                     cpiya = Decimal(input("""Ex: 126.5
 Enter your consumer price index year A(initial year/first year) here: """))
                     cpiyb = Decimal(input("""Ex: 130.8
@@ -416,6 +418,7 @@ Enter your consumer price index year B(final year/second year) here: """))
             # This is the part that calculates real income
             elif topic == topics["Real Income"] or topic == topics["Real Income"].lower():
                 try:
+                    print("Formula: Real Income = (Money Income / CPI) x 100")
                     mi = Decimal(input("""Ex: 600
     Enter your money income here: """))
                     cpi = Decimal(input("""Ex: 130
@@ -430,6 +433,7 @@ Enter your consumer price index year B(final year/second year) here: """))
             # This is the part that calculates purchasing power of a dollar
             elif topic == topics["Purchasing Power of a Dollar"] or topic == topics["Purchasing Power of a Dollar"].lower():
                 try:
+                    print("Formula: (1$ / CPI) x 100 ")
                     cpi = Decimal(input("""Ex: 120
 Enter your consumer price index here: """))
                     ppd = ((1/cpi) * 100)*100
@@ -442,6 +446,7 @@ Enter your consumer price index here: """))
             # This is the part that calculates S&P/TSX Composite Index
             elif topic == topics["S&P/TSX Composite Index"] or topic == topics["S&P/TSX Composite Index"].lower():
                 try:
+                    print("Formula: S&P/TSX Composite Index  = (Value of portfolio on selected date / Value of portfolio on base date) x 100")
                     vpsd = Decimal(input("""Ex: 2829000.00
 Enter your value of portfolio on selected date here: """))
                     vpbd = Decimal(input("""Ex: 200000.00
