@@ -1,7 +1,6 @@
 #!/usr/bin/python3
-
+# Copyright © 2021 All rights reserved. Doga Ege Ozden
 # Simple pong in python 3 for beginners
-# By @dogaege
 # Part 1: Getting Started
 
 import turtle # It's a graphical interface tool can be use for game production good for beginners.
