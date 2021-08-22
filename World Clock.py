@@ -1,3 +1,4 @@
+# Copyright © 2021 All rights reserved. Doga Ege Ozden
 # This is a world clock that shows the time in countries that have a place
 # in bricks.
 
