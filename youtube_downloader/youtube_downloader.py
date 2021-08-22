@@ -31,7 +31,6 @@ while True:
             print(yt.title + " has been successfully downloaded.")
 
         elif question1 == "a":
-            # url input from user
             yt = YouTube(f'{question2}')
 
             # extract only audio
