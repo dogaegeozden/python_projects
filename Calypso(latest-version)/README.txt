@@ -1,7 +1,7 @@
 1)In order to use calypso you must install espeak to it's location.
 2)If you press windows key + r and type shell:startup you can open the startup directory folder. You can put this app to there in order to be sure calypso start up on every time you start up your computer. 
 3)If you would like to see the decision tree you should install graphviz correctly. This installation is variaes depending on your installation. But the most basic one download the setup from the fallowing link: https://graphviz.gitlab.io/_pages/Download/Download_windows.html be sure you are selecting the option of add graphviz to the system environment path variable for current user during installation. Close the atom, or, cmd and re run the app to see the changes.
-4)This is AI is limited version of it's original one. Original one is performance optimized. Including more features. Can read jason files. Has better architecture. The settings can be controll able from a separete file without requiring to change the source code, where you can set it up as it will start it self easily from start up folder and etc.
+4)This is AI is limited version of it's original one. Original one is performance optimized. Including more features. Can read jason files. Has better architecture. The settings can be controlable from a separete file without requiring to change the source code, where you can set it up as it will start it self easily from start up folder and etc.
 
 UP COMING FEATURES:
 1) Ability communicate and work together with Jessica and Anais. 
