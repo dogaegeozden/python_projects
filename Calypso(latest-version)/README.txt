@@ -4,6 +4,6 @@
 4)This is AI is limited version of it's original one. Original one is performance optimized. Including more features. Can read jason files. Has better architecture. The settings can be controll able from an separete file without requiring to change the source code, where you can set it up as it will start it self easily from start up folder and etc.
 
 UP COMING FEATURES:
-1) Ability communicate and work together with Jessica and anais. 
+1) Ability communicate and work together with Jessica and Anais. 
 2) More machine learning algotrihms 
 ...
