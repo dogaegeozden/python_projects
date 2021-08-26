@@ -11,7 +11,7 @@ if os.name == "nt":
     # OPTION 1: You can use bin folder and settings files to control calypso
     # This is start up settings. So, if you want calypso to start on boot you should see bootsettings file.
     startUpSetting = None
-    calypsoLocation = "C:\\Users\\xnt555\\Desktop\\calypso_1.00"
+    calypsoLocation = "E:\\work_space\\calypso_1.00"
     sString = "Start Calypso at every computer start up = "
     lStrring = "Location to start Calypso on every start up = "
     sStatuCheck = False
