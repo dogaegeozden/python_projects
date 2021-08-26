@@ -26,4 +26,4 @@
 
 
 Start Calypso at every computer start up = Yes
-Location to start Calypso on every start up = C:\\Users\\xnt555\\Desktop\\calypso_1.00
+Location to start Calypso on every start up = E:\\work_space\\Calypso(latest-version)
