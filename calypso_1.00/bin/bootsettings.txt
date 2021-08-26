@@ -1,0 +1,29 @@
+# CALYPSO BOOT SETTINGS
+# This file is for setting Calypso's boot settings.
+# Note: The syntax is very important. You must put space before and after "=".
+# If you want Calypso to start on every boot. Set "Start Calypso at every computer start up" setting to Yes.
+# Ex: Start Calypso at every computer start up = Yes
+# And set "Location to start Calypso on every start up" setting to an absolute path which refers to
+# Calypso's root directory/folder using python syntax like in the example and fallow the instructions.
+# Ex: Location to start Calypso on every start up = E:\\work_space\\Calypso(latest-version)
+# To prevent Calypso from starting up on every boot. Delete Calypso.py file from shell:starup and set
+# "Start Calypso at every computer start up" to No. Ex: Start Calypso at every computer start up = No
+# Instructions:
+# 1) Be sure you set the boot settings like in the examples.
+# 2) Start the setup.py
+# 3) Press Windows Key + R
+# 4) Type shell:startup
+# 5) Copy paste the Calypso.py to the location that got opened.
+
+
+# EX SETTING FOR NO START UP ON BOOT
+# Start Calypso at every computer start up = No
+# Location to start Calypso on every start up = E:\\work_space\\Calypso(latest-version)
+
+# EX SETTINGS FOR CALYPSO TO START ON EVERY BOOT
+# Start Calypso at every computer start up = Yes
+# Location to start Calypso on every start up = E:\\work_space\\Calypso(latest-version)
+
+
+Start Calypso at every computer start up = Yes
+Location to start Calypso on every start up = C:\\Users\\xnt555\\Desktop\\calypso_1.00

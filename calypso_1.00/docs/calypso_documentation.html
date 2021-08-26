@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Calypso Documentation</title>
+  </head>
+  <body>
+    <h1>Welcome to the Calypo's documentation</h1>
+    <p><strong>Table of contents</strong></p>
+    <ol>
+      <a href=#initial_settings><li>Initial Settings</li></a>
+      <a href=#setting_up_the_requirements><li>Setting Up The Requirements</li></a>
+      <a href=#ready_to_go><li>Ready to go</li></a>
+    </ol>
+    <section id="initial_settings">
+      <h2>Initial Settings</h2>
+      <p>When you are setting Calypso's boot options you should be really careful on syntax because syntax is very important.<br>
+      <p style="text-decoration:underline">You must put space before and after "=".<p>
+      <p>And, fallow the instruction carefully.</p>
+      <p>Instructions:</p>
+      <ol>
+        <li>If you want Calypso to start on every boot. Set the "Start Calypso at every computer start up" setting in "bootsettings.txt" file to Yes. The "bootsettings.txt" file is in bin folder.</li>
+        <p>Ex: Start Calypso at every computer start up = Yes</p>
+        <li>Set the "Location to start Calypso on every start up" setting to an absolute path, that refers to the Calypso's root directory/folder using python syntax, like in the example.</li>
+        <p>Ex: Location to start Calypso on every start up = E:\\work_space\\Calypso(latest-version)</p>
+        <li>If you want to prevent Calypso from starting up on every boot. First, press Windows key + R, type shell:startup and, be sure the directory/folder that got open doesn't include calypso.py, becuase in windows that's the directory that windows looks up on boot to start applications. Finally, set "Start Calypso at every computer start up" to No.</li>
+        <p>Ex: Start Calypso at every computer start up = No</p>
+      </ol>
+    </section>
+    <section id="setting_up_the_requirements">
+      <h2>Setting Up The Requirements</h2>
+      <p>Setting up the requirements of calypso is pretty easy. All you have to do is fallow the fallowing steps: </p>
+      <ol>
+        <li>Install python programming language from <a href="https://www.python.org/downloads/">it's official website.</a></li>
+        <li>Open the project's root folder(calypso_1.00) and double click on setup.py</li>
+        <li>Install espeak to it's location. Don't forget to install it French language by adding "fr" without double quotes in Select which voices to install section.</li>
+        <li>Install graphviz to it's location. Be sure you that you check marked the option to add graphviz to the path.</li>
+      </ol>
+      <p>Skip the fallowing optional steps if you don't want calypso to start at every boot.</p>
+      <p><strong>Optional steps:</strong></p>
+      <ol>
+        <li>Press Windows Key + R</li>
+        <li>Type shell:startup</li>
+        <li>Copy paste the calypso.py to the location that got opened.</li>
+      </ol>
+    </section>
+    <section id="ready_to_go">
+      <h2>Ready to Go</h2>
+      <p>If you already compeleted the previous chapters. You can start using calypso by double clicking to it.</p>
+    </section>
+  </body>
+</html>
