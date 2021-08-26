@@ -1,6 +1,5 @@
 # Copyright © 2021 All rights reserved. Doga Ege Ozden
-# This is a world clock that shows the time in countries that have a place
-# in bricks.
+# This is a world clock application. It shows the time, in the countries, that have a place in BRICKS.
 
 import datetime
 import pytz
