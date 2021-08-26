@@ -1,5 +1,3 @@
-# My online portfolio: https://dogaege.pythonanywhere.com/
-
 # Introduction
 These are my python projects. You can open these projects using atom text editor, to see, how they are written, and edit them.
 To use these applications, you should already had been installed python3, and install the required packages by reading the "Installing Packages" section.
