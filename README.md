@@ -8,7 +8,7 @@ Important: Most of these applications are designed for windows operating system.
 
 ## Installing Packages
 ```batch
-pip install foobar
+pip install django
 ```
 
 ## Improving Atom Text Editor
