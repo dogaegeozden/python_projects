@@ -1,6 +1,6 @@
 # Introduction
 These are my python projects. You can open these projects using atom text editor, to see, how they are written, and edit them.
-To use these applications, you should already had been installed python3, and install the required packages by reading the "Installing Packages" section. Don't forget to add python to path during installation.
+To use these applications, you should already had been installed python3, and the required packages by reading the "Installing Packages" section. Don't forget to add python to path during installation.
 Important: Most of these applications are designed for windows operating system. If you want to use these applications on other operating systems, you may have to change their source code. And, add the fallowing string to the beginning of the python files. 
 ```python
 #!/usr/bin/pyhon3
