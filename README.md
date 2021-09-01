@@ -16,6 +16,6 @@ You can improve your atom text editor, by installing packages, themses and setti
 
 ```batch
 cd Desktop
-Business-Calculator.py
+"Business-Calculator.py"
 ```
 
