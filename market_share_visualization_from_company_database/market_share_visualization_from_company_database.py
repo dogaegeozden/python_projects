@@ -11,7 +11,7 @@ cS = input("Enter your connection string\nEx:mongodb+srv://test:<password>@learn
 cN = input("Enter your column name\nEx:sales \nhere: ")
 
 # Default Variables in Connection String. Hint you should chance these.
-userNameD = "test"
+userNameD = userName
 passwdD = "<password>"
 dBD = "myFirstDatabase"
 
