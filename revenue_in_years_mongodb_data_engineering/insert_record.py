@@ -1,3 +1,7 @@
+#Copyright © 2021 All rights reserved. Doga Ege Ozden
+#Note: If you have 2 users that has access to database userNameD = <username> if you have only 1 usernameD = userName 
+
+
 import matplotlib.pyplot as plt
 import numpy as np
 from decimal import Decimal
