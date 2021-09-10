@@ -1,3 +1,5 @@
+#Copyright © 2021 All rights reserved. Doga Ege Ozden
+
 import numpy as np
 import matplotlib.pyplot as plt
 
